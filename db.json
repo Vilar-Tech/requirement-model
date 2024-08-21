@@ -1,4 +1,6 @@
 {
+  "posts": [
+    {
   "task":[
 		"information":{
 			"description" : "Nome da atividade / processo",
@@ -31,3 +33,9 @@
   
   ]
 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+
