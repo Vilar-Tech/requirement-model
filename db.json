@@ -12,7 +12,7 @@
 			"situacao": "A",
 			"data" : "yyyy-mm-dd",
 			"owner": ""
-			"information": ""
+			"information": "",
 			"data_delivery":""
 		}
 		]
@@ -20,7 +20,7 @@
   "owner": [
     {
       "name": "Francilio Alencar de Sousa",
-      "phone": "86999012788"
+      "phone": "86999012788",
 	  "e-mail": "francilio.alencar@hvilar.com.br"
     }
   ],
