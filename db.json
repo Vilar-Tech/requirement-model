@@ -1,41 +1,41 @@
 {
-  "posts": [
-    {
-  "task":[
-		"information":{
-			"description" : "Nome da atividade / processo",
-			"process": "S"
-		},
-		"requirement":[
-		{
-			"description":"",
-			"situacao": "A",
-			"data" : "yyyy-mm-dd",
-			"owner": "",
-			"information": "",
-			"data_delivery":""
-		}
-		]
-  ],
-  "owner": [
-    {
-      "name": "Francilio Alencar de Sousa",
-      "phone": "86999012788",
-	  "e-mail": "francilio.alencar@hvilar.com.br"
+    "posts": [
+        {
+            "task": [
+                {
+                    "information": {
+                        "description": "Nome da atividade / processo",
+                        "process": "S"
+                    },
+                    "requirement": [
+                        {
+                            "description": "",
+                            "situacao": "A",
+                            "data": "yyyy-mm-dd",
+                            "owner": "",
+                            "information": "",
+                            "data_delivery": ""
+                        }
+                    ]
+                }
+            ],
+            "owner": [
+                {
+                    "name": "Francilio Alencar de Sousa",
+                    "phone": "86999012788",
+                    "e-mail": "francilio.alencar@hvilar.com.br"
+                }
+            ],
+            "hitory": [
+                {
+                    "solicitante": "Francilio Alencar de Sousa",
+                    "alteracao": "descricao da alteração solicitada",
+                    "data": "yyyy-mm-dd"
+                }
+            ]
+        }
+    ],
+    "profile": {
+        "name": "typicode"
     }
-  ],
-  "hitory": [
-	{
-		"solicitante": "Francilio Alencar de Sousa",
-		"alteracao": "descricao da alteração solicitada",
-		"data": "yyyy-mm-dd",
-	}
-  
-  ]
 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
-
